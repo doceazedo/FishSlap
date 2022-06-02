@@ -9,5 +9,5 @@
 </p>
 
 ## Permissions
-- **fishslap.canslap** - Allow player to slap other with fish
+- **fishslap.canslap** - Allow player to slap others with fish
 - **fishslap.canbeslapped** - Allow player to be slapped by others with fish
