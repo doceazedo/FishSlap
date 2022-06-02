@@ -1,0 +1,7 @@
+name: FishSlap
+version: '1.0-SNAPSHOT'
+main: com.doceazedo.fishslap.FishSlap
+api-version: 1.13
+authors: [ DoceAzedo ]
+description: Slap people with fish!
+website: https://doceazedo.com
